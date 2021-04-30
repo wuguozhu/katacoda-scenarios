@@ -1,0 +1,30 @@
+{
+  "title": "Centos 7 Basic",
+  "description": "Learn Centos 7 basic operations",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1: OS Basic",
+        "text": "step1-os-basic.md"
+      },
+      {
+        "title": "Step 2: Network Basic",
+        "text": "step2-network-basic.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "minikube"
+  }
+}
